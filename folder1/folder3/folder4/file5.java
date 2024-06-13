@@ -11,5 +11,11 @@ class Matrix
                 c[][]=a[i][j]8b[j][i];
             }
         }
+
+
+
+
+
+        
     }
 }

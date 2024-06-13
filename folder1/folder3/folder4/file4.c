@@ -14,4 +14,8 @@ void main()
         printf("it is a not prime");
     }
 
+
+
+
+
 }
